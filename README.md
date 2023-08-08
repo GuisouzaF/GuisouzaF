@@ -1,4 +1,4 @@
-### Olá, eu sou Guilherme Souza
+### Olá, sou Guilherme Souza
 
 - 🔭 Atualmente trabalho como Analista Computacional
 - 🌱 Cursando ciência da computação
