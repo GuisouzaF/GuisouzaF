@@ -1,6 +1,6 @@
 ### Olá, sou Guilherme Souza
 
-- 🔭 Atualmente trabalho como Analista Computacional
+- 🔭 Atualmente trabalho como Analista de Suporte
 - 🌱 Cursando ciência da computação
 - ✍ Estudando com foco em JAVA
 
